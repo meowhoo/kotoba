@@ -27,7 +27,7 @@
 
 ## 1. About This Software
 
-Kotoba is a multilingual language learning tool. With support for multilingual text recognition, AI translation, and an intelligent vocabulary card system, you can easily read foreign books, build your vocabulary, and create a personalized language learning environment.
+Kotoba is a tool designed specifically for **reading foreign novels**. It uses OCR to recognize novel content, paired with AI translation and a smart vocabulary card system, making it easy to read Japanese, English, and other foreign novels while learning the language.
 
 ### Main Features
 
@@ -39,9 +39,9 @@ Kotoba is a multilingual language learning tool. With support for multilingual t
 
 ### Target Audience
 
-- Language learners who want to accumulate vocabulary and build a personalized word database
-- Anyone who needs AI translation assistance to read foreign books
-- Readers who want to translate book content into any language they need
+- Readers who want to read foreign novels but need translation assistance
+- Those who have novel files in image format (PNG, JPG, etc.)
+- Language learners who want to build vocabulary cards while reading
 
 ---
 

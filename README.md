@@ -1,17 +1,24 @@
 # Kotoba
 
-> 🎌 Multilingual Reading and Learning Tool
+> 📖 OCR Translation Reader for Foreign Novels
 
 ---
 
 ## 🎯 What is it?
 
-**Kotoba** is a multilingual learning tool. It supports multilingual text recognition, AI translation, and an intelligent vocabulary card system, making it easy to read foreign books, accumulate vocabulary, and create a personalized language learning environment.
+**Kotoba** is a tool designed specifically for **reading foreign novels**. It uses screenshot + OCR to recognize e-book content, paired with AI translation and a smart vocabulary card system, making it easy to read Japanese, Chinese, English, and other foreign novels while learning the language.
 
 **Who is it for?**
-- 📚 Language learners who want to accumulate vocabulary and build a personalized word database
-- 📖 Anyone who needs AI translation assistance to read foreign books
-- 💬 Readers who want to translate book content into any language they need
+- 📚 E-book readers who purchased foreign novels and want to learn while reading
+- 📖 Users who find e-reader learning features insufficient and need more powerful tools
+- 💬 Language learners who want AI translation assistance and personalized vocabulary cards
+- 🎌 Supports multiple languages with automatic text direction detection (vertical/horizontal)
+
+---
+
+## 📸 Screenshot
+
+![Kotoba Screenshot](screenshots/01.png)
 
 ---
 
